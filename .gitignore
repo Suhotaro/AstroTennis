@@ -1,0 +1,8 @@
+Debug
+ipch
+*VC.db
+*VC.VC.opendb
+*.vs
+*.lib
+*.pdb
+*.dll
