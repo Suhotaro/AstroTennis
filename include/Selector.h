@@ -2,7 +2,7 @@
 
 #include "Socket.h"
 
-class rpSelector
+class RP_LIBS_API rpSelector
 {
 public:
 	rpSelector() {}

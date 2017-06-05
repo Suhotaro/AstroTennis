@@ -8,7 +8,7 @@
 
 class CyclicBuffer;
 
-class rpSelectorClient : public rpSelector
+class RP_LIBS_API rpSelectorClient : public rpSelector
 {
 	typedef rpSelector eInherited;
 public:
